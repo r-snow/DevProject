@@ -1,0 +1,20 @@
+.banner {
+    background-color: rgb(35, 35, 35);
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+#small-cutie {
+    height: 100px;
+}
+
+#cutie {
+    color: rgb(0, 158, 79);
+    font-size: 100px;
+}
+
+.bold {
+    font-weight: 900;
+}
